@@ -1,0 +1,9 @@
+{
+    "name": "kbond/homepage-scaffold",
+    "description": "[POC] Create a basic homepage controller/template/test.",
+    "require": {
+        "symfony/test-pack": "*",
+        "symfony/twig-bundle": "^6.0",
+        "zenstruck/browser": "^1.0"
+    }
+}
