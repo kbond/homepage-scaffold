@@ -1,6 +1,7 @@
 {
     "name": "kbond/homepage-scaffold",
     "description": "[POC] Create a basic homepage controller/template/test.",
+    "type": "symfony-pack",
     "require": {
         "symfony/twig-bundle": "^6.0"
     },
