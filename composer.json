@@ -6,6 +6,7 @@
         "symfony/twig-bundle": "^6.0"
     },
     "require-dev": {
+        "symfony/twig-bundle": "^6.0",
         "symfony/test-pack": "*",
         "zenstruck/browser": "^1.0"
     }
