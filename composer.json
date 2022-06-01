@@ -3,10 +3,11 @@
     "description": "[POC] Create a basic homepage controller/template/test.",
     "type": "symfony-pack",
     "require": {
-        "symfony/twig-bundle": "^6.0"
+        "symfony/twig-bundle": "^6.0",
+        "symfony/test-pack": "*",
+        "zenstruck/browser": "^1.0"
     },
     "require-dev": {
-        "symfony/twig-bundle": "^6.0",
         "symfony/test-pack": "*",
         "zenstruck/browser": "^1.0"
     }
